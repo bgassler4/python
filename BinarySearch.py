@@ -15,7 +15,7 @@
 import random
 import math
 
-initial_list_length = 10
+initial_list_length = 100
 num_min = 1
 num_max = 100
 num_list = []
