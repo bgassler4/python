@@ -104,6 +104,4 @@ def run_program():
             print("Input should be a whole number")
 
 
-
 run_program()
-
